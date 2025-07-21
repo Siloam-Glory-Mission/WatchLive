@@ -1,8 +1,8 @@
 import './App.css'
-import { Navigate, Route, BrowserRouter as Router, Routes } from 'react-router-dom'
+import {  Route, BrowserRouter as Router, Routes } from 'react-router-dom'
 import Login from './Login'
 import OBSVideo from './Components/ObsVideo'
-import AuthService from './AuthService'
+// import AuthService from './AuthService'
 import WatchLive from './Components/watchLive'
 
 function App() {
